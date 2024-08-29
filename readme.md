@@ -1,6 +1,6 @@
 # Formulario de Contacto
 
-Este proyecto contiene un formulario de contacto para el sitio web de Pilar Tecno. 
+Este proyecto contiene un formulario de contacto para el curso GIT y VSCode de Pilar Tecno. 
 
 ## Descripción
 
