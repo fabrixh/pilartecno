@@ -26,7 +26,3 @@ Para utilizar el formulario:
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para sugerir mejoras o correcciones.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
