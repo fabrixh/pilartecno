@@ -1,6 +1,6 @@
 # Formulario de Contacto
 
-Este proyecto contiene un formulario de contacto para el sitio web de Pilar Tecno. 
+Este proyecto contiene un formulario de contacto para el curso GIT y VSCode de la formación MERNSTACK Pilar Tecno. 
 
 ## Descripción
 
@@ -26,7 +26,3 @@ Para utilizar el formulario:
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para sugerir mejoras o correcciones.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
