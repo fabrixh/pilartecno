@@ -1,6 +1,6 @@
 # Formulario de Contacto
 
-Este proyecto contiene un formulario de contacto para el curso GIT y VSCode de la formación Pilar Tecno. 
+Este proyecto contiene un formulario de contacto para el curso GIT y VSCode de la formación MERNSTACK Pilar Tecno. 
 
 ## Descripción
 
