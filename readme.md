@@ -25,4 +25,4 @@ Para utilizar el formulario:
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Por favor, abre un issue o envía un `pull request` para sugerir mejoras o correcciones.
+Las contribuciones son bienvenidas. Por favor, abre un issue o envía un `pull request` para sugerir mejoras o correcciones. 
